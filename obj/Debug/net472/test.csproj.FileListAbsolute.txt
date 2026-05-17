@@ -1,0 +1,35 @@
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\obj\Debug\net472\test.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\obj\Debug\net472\test.frmDangNhap.resources
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\obj\Debug\net472\test.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\obj\Debug\net472\test.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\obj\Debug\net472\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\obj\Debug\net472\test.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\bin\Debug\net472\test.exe.config
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\bin\Debug\net472\test.exe
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\bin\Debug\net472\test.pdb
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\bin\Debug\net472\Dapper.dll
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\bin\Debug\net472\Guna.UI2.dll
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\bin\Debug\net472\LiveCharts.dll
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\bin\Debug\net472\LiveCharts.WinForms.dll
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\bin\Debug\net472\LiveCharts.Wpf.dll
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\obj\Debug\net472\test.csproj.Up2Date
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\obj\Debug\net472\test.exe
+C:\Users\admin\OneDrive\Desktop\Hải Anh học tập\lập trình.net\test\test\obj\Debug\net472\test.pdb
+C:\Users\LENOVO\Downloads\Net project\test\test\bin\Debug\net472\test.exe.config
+C:\Users\LENOVO\Downloads\Net project\test\test\bin\Debug\net472\test.exe
+C:\Users\LENOVO\Downloads\Net project\test\test\bin\Debug\net472\test.pdb
+C:\Users\LENOVO\Downloads\Net project\test\test\bin\Debug\net472\Dapper.dll
+C:\Users\LENOVO\Downloads\Net project\test\test\bin\Debug\net472\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\Net project\test\test\bin\Debug\net472\LiveCharts.dll
+C:\Users\LENOVO\Downloads\Net project\test\test\bin\Debug\net472\LiveCharts.WinForms.dll
+C:\Users\LENOVO\Downloads\Net project\test\test\bin\Debug\net472\LiveCharts.Wpf.dll
+C:\Users\LENOVO\Downloads\Net project\test\test\obj\Debug\net472\test.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Net project\test\test\obj\Debug\net472\test.exe.config
+C:\Users\LENOVO\Downloads\Net project\test\test\obj\Debug\net472\test.frmDangNhap.resources
+C:\Users\LENOVO\Downloads\Net project\test\test\obj\Debug\net472\test.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Net project\test\test\obj\Debug\net472\test.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Net project\test\test\obj\Debug\net472\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Net project\test\test\obj\Debug\net472\test.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Net project\test\test\obj\Debug\net472\test.csproj.Up2Date
+C:\Users\LENOVO\Downloads\Net project\test\test\obj\Debug\net472\test.exe
+C:\Users\LENOVO\Downloads\Net project\test\test\obj\Debug\net472\test.pdb
