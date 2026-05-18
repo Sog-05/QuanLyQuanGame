@@ -1,0 +1,27 @@
+QUAN LY QUAN GAME - DU AN TEST
+================================
+
+1. CO SO DU LIEU:
+
+   Cach A - Cai moi: chay toan bo test\Database.sql
+
+   Cach B - Da co DB cu:
+   - Chay test/Database_DayDu.sql (bang bo sung)
+   - Chay test/TaoTaiKhoanKhach.sql (tao tai khoan khach co dinh)
+
+2. MO PROJECT: test\test.sln -> Build -> F5
+
+3. DANG NHAP:
+   Nhan vien: admin / Pass123!
+   Khach:     khach1 .. khach25 / Pass123!
+              hoac khach / Pass123!
+
+   (Tai khoan user6..user25 trong tai lieu cu KHONG dung neu DB tao bang script cu)
+
+4. FONT TIENG VIET:
+   - Segoe UI + VanBanGiaoDien.cs (chuoi Unicode escape)
+   - Du lieu SQL qua ChuoiTiengViet.cs
+
+5. CHUC NANG (muc 4.1 - 4.11): day du trong ung dung
+
+6. CHUOI KET NOI: test\test\App.config
